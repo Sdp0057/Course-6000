@@ -1,0 +1,52 @@
+<assignment>
+	<questions>
+		<question>When you send a request for a Web page to a remote computer, the remote computer is called a Web server.</question>
+		<answer>true</answer>
+	</questions>
+	
+	<questions>
+		<question>In the client/server model, presentation logic governs how data are manipulated.</question>
+		<answer>false</answer>
+	</questions>
+	
+	<questions>
+		<question>In the client/server model, business logic governs how data are manipulated.</question>
+		<answer>true</answer>
+	</questions>
+	
+	<questions>
+		<question>Business logic controls how the data returned from the database is manipulated before it is displayed on the client machine.</question>
+		<answer>true</answer>
+	</questions>
+	
+	<questions>
+		<question>Each scripting language requires its own interpreter.</question>
+		<answer>true</answer>
+	</questions>
+	
+	<questions>
+		<question>Client-side scripts are executed on the Web server.</question>
+		<answer>false</answer>
+	</questions>
+	
+	<questions>
+		<question>A function can be called only once during the running of a script.</question>
+		<answer>false</answer>
+	</questions>
+	
+	<questions>
+		<question>A function can not return a value.</question>
+		<answer>false</answer>
+	</questions>
+	
+	<questions>
+		<question>When you create a separate file for your JavaScript program, you name it with a .js file extension.</question>
+		<answer>true</answer>
+	</questions>
+	
+	<questions>
+		<question>The JSP code is executed on the client browser.</question>
+		<answer>false</answer>
+	</questions>
+	
+</assignment>
